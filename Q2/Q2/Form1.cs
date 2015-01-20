@@ -1,6 +1,5 @@
 ﻿/* Name: Cynthia Liu 
  * Date: September 13, 2013
- * Purpose: Assignment 1 (Questions 2 and 3)
  */
 using System;
 using System.Collections.Generic;
