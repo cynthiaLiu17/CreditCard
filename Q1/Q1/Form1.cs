@@ -1,6 +1,6 @@
 ﻿/* Name: Cynthia Liu
  * Date: September 9, 2013
- * Purpose: Assignment 1 (Question 1: To convert from an interger number to its corresponding char value0 
+ * Purpose: Assignment 1 (Question 1: To convert from an interger number to its corresponding char value)
  */
 using System;
 using System.Collections.Generic;
