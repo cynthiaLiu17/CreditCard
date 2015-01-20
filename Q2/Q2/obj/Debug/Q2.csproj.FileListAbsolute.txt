@@ -1,0 +1,16 @@
+E:\Summatives\Assignment 1\Q2\Q2\obj\Debug\ResolveAssemblyReference.cache
+E:\Summatives\Assignment 1\Q2\Q2\obj\Debug\Q2.Form1.resources
+E:\Summatives\Assignment 1\Q2\Q2\obj\Debug\Q2.Properties.Resources.resources
+E:\Summatives\Assignment 1\Q2\Q2\obj\Debug\Q2.csproj.GenerateResource.Cache
+E:\Summatives\Assignment 1\Q2\Q2\bin\Debug\Q2.exe
+E:\Summatives\Assignment 1\Q2\Q2\bin\Debug\Q2.pdb
+E:\Summatives\Assignment 1\Q2\Q2\obj\Debug\Q2.exe
+E:\Summatives\Assignment 1\Q2\Q2\obj\Debug\Q2.pdb
+G:\Summatives\Assignment 1\Q2\Q2\obj\Debug\Q2.exe
+G:\Summatives\Assignment 1\Q2\Q2\obj\Debug\Q2.pdb
+G:\Summatives\Assignment 1\Q2\Q2\bin\Debug\Q2.exe
+G:\Summatives\Assignment 1\Q2\Q2\bin\Debug\Q2.pdb
+G:\Summatives\Assignment 1\Q2\Q2\obj\Debug\ResolveAssemblyReference.cache
+G:\Summatives\Assignment 1\Q2\Q2\obj\Debug\Q2.Form1.resources
+G:\Summatives\Assignment 1\Q2\Q2\obj\Debug\Q2.Properties.Resources.resources
+G:\Summatives\Assignment 1\Q2\Q2\obj\Debug\Q2.csproj.GenerateResource.Cache

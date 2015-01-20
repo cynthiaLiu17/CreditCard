@@ -1,0 +1,8 @@
+E:\Summatives\Assignment 1\Q1\Q1\bin\Debug\Q1.exe
+E:\Summatives\Assignment 1\Q1\Q1\bin\Debug\Q1.pdb
+E:\Summatives\Assignment 1\Q1\Q1\obj\Debug\ResolveAssemblyReference.cache
+E:\Summatives\Assignment 1\Q1\Q1\obj\Debug\Q1.Form1.resources
+E:\Summatives\Assignment 1\Q1\Q1\obj\Debug\Q1.Properties.Resources.resources
+E:\Summatives\Assignment 1\Q1\Q1\obj\Debug\Q1.csproj.GenerateResource.Cache
+E:\Summatives\Assignment 1\Q1\Q1\obj\Debug\Q1.exe
+E:\Summatives\Assignment 1\Q1\Q1\obj\Debug\Q1.pdb
